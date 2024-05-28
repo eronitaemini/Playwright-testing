@@ -17,4 +17,5 @@ Test Cases:
 
 Running the tests: 
 npx playwright test
+
 npx playwright test --ui 
