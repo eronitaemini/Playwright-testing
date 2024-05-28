@@ -14,3 +14,7 @@ Test Cases:
 **Dark Mode Button Test**: This test toggles the dark mode setting and verifies that the dark mode is enabled by checking the appropriate attribute.
 **Link Navigation Test**: This test clicks on the "Machine Learning Tutorial" link and verifies that the browser navigates to the correct URL.
 **Sign-in Test**: This test attempts to sign in with a test account and checks for the visibility of an error alert upon entering incorrect credentials
+
+Running the tests: 
+npx playwright test
+npx playwright test --ui 
